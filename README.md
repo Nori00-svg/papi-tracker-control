@@ -13,3 +13,5 @@ Papi Tracker Control è un programma che consente di attivare e gestire il tracc
 2. Scarica il file ZIP dell'applicazione allegato.
 3. Estrai il contenuto del file ZIP sul tuo computer.
 4. Apri la cartella ed esegui l'applicazione "EnricoTracker" per iniziare!
+5. ce anche la funzione per il Mobile con l'applicazione "EnricoTracker_Mobile"si deve prendere IP che inizia 192 r finire fino a :8080
+   ATTENZIONE: IP LO SI METTE NEL URL 
